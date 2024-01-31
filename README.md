@@ -23,8 +23,9 @@
                <image src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=visualstudio&logoColor=white"/>
 </p>
 
-<p align = "center">
+
 [![hyoinYang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoinYang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hyoinYang) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoin0219)](https://solved.ac/hyoin0219/)
-</p>
+
+   
    ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&animation=twinkling)
