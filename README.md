@@ -3,9 +3,9 @@
 <h3 align="center"> Languages </h3>
 <p align="center">
    <image src = "https://img.shields.io/badge/JAVA-FE2E64?style=flat-square5&logoColor=white"/> 
-      <image src = "https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=cplusplus&logoColor=white"/> 
-            <image src = "https://img.shields.io/badge/C-8181F7?style=flat-square&logo=c&logoColor=white"/> 
-               <image src = "https://img.shields.io/badge/Csharp-2E2EFE?style=flat-square&logo=csharp&logoColor=white"/> 
+      <image src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
+            <image src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
+               <image src = "https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> 
 </p>
 
 <h3 align="center"> Platforms </h3>
