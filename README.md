@@ -4,11 +4,10 @@
 <p align="center">
    <image src = "https://img.shields.io/badge/JAVA-FE2E64?style=flat-square5&logoColor=white"/> 
       <image src = "https://img.shields.io/badge/C++-01A9DB?style=flat-square&logo=cplusplus&logoColor=white"/> 
-         <image src = "https://img.shields.io/badge/C#-FE2E64?style=flat-square5&logoColor=white"/> 
-            <image src = https://img.shields.io/badge/-8181F7?style=flat-square&logo=c&logoColor=white"/> 
+            <image src = "https://img.shields.io/badge/C-8181F7?style=flat-square&logo=c&logoColor=white"/> 
                <image src = "https://img.shields.io/badge/-2E2EFE?style=flat-square&logo=csharp&logoColor=white"/> 
                   <image src = "https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
-                     <image src = "https://img.shields.io/badge/springboot-ECF8E0?style=flat-square&logo=springboot&logoColor=white"/>
+                     <image src = "https://img.shields.io/badge/springboot-ECF8E0?style=flat-square&logo=springboot&logoColor=green"/>
 </p>
 
 
