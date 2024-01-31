@@ -16,7 +16,11 @@
 
 <h3 align="center"> Tools </h3>
 <p align = "center">
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) 
+   <image src = "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+      <image src = "https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+         <image src = "https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+            <image src = "https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
+               <image src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=visualstudio&logoColor=white"/>
 </p>
 
 
