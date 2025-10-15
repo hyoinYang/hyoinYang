@@ -10,7 +10,7 @@
 <h3 align="center"> Platforms </h3>
 <p align="center">
    <image src = "https://img.shields.io/badge/Spring-ECF8E0?style=for-the-badge&logo=Spring&logoColor=green"/>
-       <image src = "https://img.shields.io/badge/django-020624?style=for-the-badge&logo=Django&logoColor=white"/>
+       <image src = "https://img.shields.io/badge/django-113000?style=for-the-badge&logo=Django&logoColor=white"/>
 </p>
 
 
@@ -18,8 +18,8 @@
 <p align = "center">
    <image src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
       <image src = "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-         <image src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-            <image src = "https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
+         <image src = "https://img.shields.io/badge/Notion-3D3D3D?style=for-the-badge&logo=Notion&logoColor=white"/>
+            <image src = "https://img.shields.io/badge/IntelliJ_IDEA-0C1D91?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinyang&show_icons=true&theme=onedark)
