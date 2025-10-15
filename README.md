@@ -3,13 +3,11 @@
 <p align="center">
    <image src = "https://img.shields.io/badge/JAVA-FE2E64?style=flat-square5&logoColor=white"/> 
       <image src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
-            <image src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
-               <image src = "https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> 
+
 </p>
 
 <h3 align="center"> Platforms </h3>
 <p align="center">
-<image src = "https://img.shields.io/badge/unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
    <image src = "https://img.shields.io/badge/springboot-ECF8E0?style=flat-square&logo=springboot&logoColor=green"/>
 </p>
 
@@ -22,6 +20,6 @@
                <image src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=visualstudio&logoColor=white"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinyang)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinyang&show_icons=true&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoin0219)](https://solved.ac/hyoin0219/)
 
