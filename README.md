@@ -22,7 +22,6 @@
                <image src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=visualstudio&logoColor=white"/>
 </p>
 
-
-[![hyoinYang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoinYang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hyoinYang) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoinyang)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoin0219)](https://solved.ac/hyoin0219/)
 
